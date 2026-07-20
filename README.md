@@ -1,17 +1,29 @@
 <div align="center">
 
-<a href="https://github.com/Big-com18">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=440&lines=Hi%2C+I'm+Bill+%F0%9F%91%8B;Front-end+Developer+(Flutter+%26+Next.js);Semester+4+Informatika+%40+Univ.+Cakrawala;Currently+building+CineGo+%F0%9F%8E%AC" alt="Typing SVG" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:060913&height=200&section=header&text=Hi%20There!%20I'm%20Bill&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20Flutter%20%26%20Next.js&descAlignY=55&descSize=18" width="100%"/>
 
 </div>
+
+<table>
+<tr>
+<td width="60%" valign="top">
 
 - 🎓 Semester 4 Informatika, Universitas Cakrawala, Jakarta
 - 💻 Front-end Developer — Mobile (Flutter/Dart) & Web (Next.js)
 - 🧠 Lagi belajar Machine Learning & eksplor AI API (Anthropic, Gemini)
 - 💬 Ask me about UI/UX, Flutter, atau Next.js
+- ⚡ Fun fact: suka ngoprek UI sampe pixel-perfect
 
-<br>
+</td>
+<td width="40%">
+
+<img src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/code.gif" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
 
 ## 🛠️ Tech Stack
 
@@ -33,22 +45,30 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
 
 ## 📊 Github Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Big-com18&show_icons=true&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Big-com18&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
 <img src="https://github-readme-streak-stats.demolab.com/?user=Big-com18&theme=radical&hide_border=true" width="49%" />
-
-<br>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-com18&layout=compact&theme=radical&hide_border=true" width="49%" />
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
+
+## 🏆 Trophy Showcase
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Big-com18&theme=radical&no-frame=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
 
 ## 🐍 Contribution Snake
 
@@ -58,7 +78,7 @@
 
 </div>
 
-<br>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
 
 ## 🌐 Connect with me
 
@@ -69,3 +89,11 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:billyandreas441@gmail.com)
 
 </div>
+
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=Big-com18&color=FF6B00&style=flat-square&label=Profile+Views)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,100:FF6B00&height=100&section=footer" width="100%"/>
