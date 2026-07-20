@@ -8,7 +8,6 @@
 
 - 🎓 Semester 4 Informatika, Universitas Cakrawala, Jakarta
 - 💻 Front-end Developer — Mobile (Flutter/Dart) & Web (Next.js)
-- 🚀 Lagi ngoding **CineGo**, app booking tiket bioskop pake Flutter
 - 🧠 Lagi belajar Machine Learning & eksplor AI API (Anthropic, Gemini)
 - 💬 Ask me about UI/UX, Flutter, atau Next.js
 
