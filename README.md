@@ -11,13 +11,11 @@
 - 🎓 Semester 4 Ilmu Komputer, Universitas Cakrawala, Jakarta
 - 💻 Front-end Developer — Mobile (Flutter/Dart) & Web (Next.js)
 - 🧠 Lagi belajar Machine Learning & eksplor AI API (Anthropic, Gemini)
-- 💬 Ask me about UI/UX, Flutter, atau Next.js
-- ⚡ Fun fact: suka ngoprek UI sampe pixel-perfect
 
 </td>
 <td width="40%">
 
-<img src="https://raw.githubusercontent.com/aambrozkiewicz/aambrozkiewicz/master/code.gif" width="100%"/>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes1.gif" width="100%"/>
 
 </td>
 </tr>
