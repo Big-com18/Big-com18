@@ -49,10 +49,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Big-com18&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
-<img src="https://github-readme-streak-stats.demolab.com/?user=Big-com18&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Big-com18&show_icons=true&theme=radical&hide_border=true&count_private=true" width="49%" />
+<img src="https://streak-stats.demolab.com/?user=Big-com18&theme=radical&hide_border=true" width="49%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Big-com18&layout=compact&theme=radical&hide_border=true" width="49%" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Big-com18&layout=compact&theme=radical&hide_border=true" width="49%" />
 
 </div>
 
