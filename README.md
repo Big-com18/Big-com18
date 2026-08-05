@@ -9,7 +9,7 @@
 <td width="60%" valign="top">
 
 - 🎓 Semester 4 Ilmu Komputer
-- 💻 Front-end Developer — Mobile (Flutter/Dart) & Web (Next.js)
+- 💻 Front-end Developer - Mobile (Flutter/Dart) & Web (Next.js)
 - 🧠 Lagi belajar Machine Learning & eksplor AI API (Anthropic, Gemini)
 
 </td>
