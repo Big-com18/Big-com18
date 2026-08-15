@@ -106,12 +106,12 @@ $ github --trophies
 <br>
 
 ```bash
-$ git log --contribution-snake
+$ github --contributions-3d
 ```
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/profile-3d-contrib/profile-blue.svg" width="100%"/>
 
 </div>
 
