@@ -1,128 +1,149 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B00,100:060913&height=200&section=header&text=Hi%20There!%20I'm%20Bill&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Front-end%20Developer%20%7C%20Flutter%20%26%20Next.js&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=180&section=header&text=BILL&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=40" width="100%"/>
 
-<a href="https://github.com/Big-com18">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=500&lines=Computer+Science+Student+%F0%9F%8E%93;Flutter+%26+Next.js+Developer+%F0%9F%92%BB;Belajar+Machine+Learning+%F0%9F%A4%96;Exploring+AI+APIs+%E2%9C%A8" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&background=0D1117&center=true&vCenter=true&width=600&lines=Computer+Science+Student+%F0%9F%8E%93;Front-end+Developer+%E2%80%94+Flutter+%26+Next.js;Exploring+Machine+Learning+%F0%9F%A4%96;Building+things+with+AI+APIs+%E2%9C%A8" alt="Typing SVG"/>
 
-</div>
+<br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
-
-## 👋 About Me
-
-<table>
-<tr>
-<td width="60%" valign="top">
-
-- 🎓 Semester 4, Ilmu Komputer
-- 💻 Front-end Developer — Mobile (Flutter/Dart) & Web (Next.js)
-- 🧠 Lagi belajar Machine Learning & eksplor AI API (Anthropic, Gemini)
-- 🌱 Selalu penasaran gimana cara kerja sistem "di balik layar"
-- ⚡ Fun fact: kalo lagi debug, layar aku kelihatan kayak gambar di samping ini
-
-</td>
-<td width="40%" align="center">
-
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes1.gif" width="100%"/>
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table border="0" cellspacing="18" cellpadding="0">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="45"/><br><sub>Flutter</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="45"/><br><sub>Dart</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="45"/><br><sub>Next.js</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=react" width="45"/><br><sub>React</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=js" width="45"/><br><sub>JavaScript</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="45"/><br><sub>HTML</sub></td>
-</tr>
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="45"/><br><sub>CSS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="45"/><br><sub>Tailwind</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=git" width="45"/><br><sub>Git</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=github" width="45"/><br><sub>GitHub</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="45"/><br><sub>Supabase</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=py" width="45"/><br><sub>Python</sub></td>
-</tr>
-<tr>
-<td align="center" colspan="6"><img src="https://skillicons.dev/icons?i=vscode" width="45"/><br><sub>VS Code</sub></td>
-</tr>
-</table>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes1.gif" width="260"/>
 
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Big-com18&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" width="49%" />
-<img src="https://streak-stats.demolab.com/?user=Big-com18&theme=gruvbox&hide_border=true" width="49%" />
-
-<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Big-com18&layout=compact&theme=gruvbox&hide_border=true" width="49%" />
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
-
-## 🏆 Trophy Showcase
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Big-com18&theme=gruvbox&no-frame=true&row=1&column=6" width="100%"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
-
-## 🐍 Contribution Snake
-
-<p align="center"><em>Ular ini makan kotak kontribusi aku tiap hari — semoga gak pernah kelaparan 😄</em></p>
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/github-contribution-grid-snake.svg" width="100%" style="border-radius:8px; border:1px solid #FF6B00;"/>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:060913,100:FF6B00&height=3&section=header" width="100%"/>
-
-## 🌐 Connect with Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-060913?style=for-the-badge&logo=vercel&logoColor=FF6B00)](https://your-portfolio-link.com)
-[![Instagram](https://img.shields.io/badge/Instagram-FF6B00?style=for-the-badge&logo=instagram&logoColor=060913)](https://instagram.com/bill.and18)
-[![Gmail](https://img.shields.io/badge/Gmail-060913?style=for-the-badge&logo=gmail&logoColor=FF6B00)](mailto:billyandreas441@gmail.com)
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Big-com18&color=FF6B00&style=for-the-badge&label=PROFILE+VIEWS)
+```bash
+$ whoami
+```
 
-</div>
+```yaml
+name: Bill
+education: Semester 4 — Ilmu Komputer
+role: Front-end Developer (Mobile & Web)
+stack: [Flutter, Dart, Next.js, React]
+currently_learning: Machine Learning
+exploring: [Anthropic API, Gemini API]
+fun_fact: "layar aku pas debug mirip GIF di atas"
+```
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF6B00,100:060913&height=3&section=header" width="100%"/>
+<br>
+
+```bash
+$ tech --stack
+```
 
 <div align="center">
 
-### 💭 Outside of Coding
+<sub><b>LANGUAGES & FRAMEWORKS</b></sub>
 
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes2.gif" width="45%"/>
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes3.gif" width="45%"/>
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=flutter" width="42"/><br><sub>Flutter</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=dart" width="42"/><br><sub>Dart</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=nextjs" width="42"/><br><sub>Next.js</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=react" width="42"/><br><sub>React</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=js" width="42"/><br><sub>JavaScript</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=py" width="42"/><br><sub>Python</sub></td>
+</tr>
+</table>
 
-<sub>"On my sight, you are still my patient" — anggap aja aku Baymax buat kode kamu, siap bantu tiap saat 🤍</sub>
+<br>
+
+<sub><b>WEB & STYLING</b></sub>
+
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br><sub>HTML</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br><sub>CSS</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42"/><br><sub>Tailwind</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42"/><br><sub>Supabase</sub></td>
+</tr>
+</table>
+
+<br>
+
+<sub><b>TOOLS</b></sub>
+
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=git" width="42"/><br><sub>Git</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br><sub>GitHub</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42"/><br><sub>VS Code</sub></td>
+</tr>
+</table>
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:060913,100:FF6B00&height=100&section=footer" width="100%"/>
+<br>
+
+```bash
+$ github --stats
+```
+
+<div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Big-com18&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Big-com18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" width="39%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Big-com18&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Big-com18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Activity" width="90%"/>
+
+</div>
+
+<br>
+
+```bash
+$ github --trophies
+```
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Big-com18&theme=gruvbox&no-frame=true&no-bg=true&row=1&column=6" width="100%"/>
+
+</div>
+
+<br>
+
+```bash
+$ git log --contribution-snake
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br>
+
+```bash
+$ connect --with-me
+```
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=00D9FF)](https://your-portfolio-link.com)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=00D9FF)](https://instagram.com/bill.and18)
+&nbsp;
+[![Gmail](https://img.shields.io/badge/GMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00D9FF)](mailto:billyandreas441@gmail.com)
+
+<br><br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Big-com18&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+</div>
+
+<br>
+
+<div align="center">
+<sub><i>// friendly assistant mode: ON — always here to help debug your day</i></sub>
+<br><br>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes2.gif" width="42%"/>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/main/assets/asstes3.gif" width="42%"/>
+</div>
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00D9FF,100:0D1117&height=120&section=footer" width="100%"/>
