@@ -23,7 +23,6 @@ role: Front-end Developer (Mobile & Web)
 stack: [Flutter, Dart, Next.js, React]
 currently_learning: Machine Learning
 exploring: [Anthropic API, Gemini API]
-fun_fact: "layar aku pas debug mirip GIF di atas"
 ```
 
 <br>
