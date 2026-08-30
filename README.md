@@ -80,6 +80,14 @@ $ github --stats
 ```
 
 <div align="center">
+
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Big-com18&show_icons=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&border_color=00D9FF" width="49%"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Big-com18&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=ffffff&border_color=00D9FF" width="39%"/>
+
+<img src="https://streak-stats.demolab.com/?user=Big-com18&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" width="90%"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Big-com18&bg_color=0D1117&color=00D9FF&line=00D9FF&point=ffffff&area=true&hide_border=true&custom_title=Commit%20Activity" width="90%"/>
+
 </div>
 
 <br>
