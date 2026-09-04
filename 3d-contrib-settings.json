@@ -3,11 +3,11 @@
     "type": "normal",
     "fileName": "profile-blue.svg",
     "backgroundColor": "#0D1117",
-    "foregroundColor": "#eeeeff",
-    "strongColor": "#00D9FF",
-    "weakColor": "#334155",
-    "radarColor": "#00D9FF",
+    "foregroundColor": "#f1e6ff",
+    "strongColor": "#C084FC",
+    "weakColor": "#2e2140",
+    "radarColor": "#E879F9",
     "growingAnimation": true,
-    "contribColors": ["#0D1117", "#0e2a38", "#0f4c5c", "#00a8cc", "#00D9FF"]
+    "contribColors": ["#0D1117", "#2a1a4a", "#5b21b6", "#9333ea", "#E879F9"]
   }
 ]
