@@ -43,21 +43,13 @@ $ tech --stack
 <td align="center"><img src="https://skillicons.dev/icons?i=react" width="42"/><br><sub>React</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=js" width="42"/><br><sub>JavaScript</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=py" width="42"/><br><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=typescript" width="42"/><br><sub>Typescript </sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=csharp" width="42"/><br><sub>Python</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=php" width="42"/><br><sub>Php</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=cs" width="42"/><br><sub>C#</sub></td>  
 </tr>
 </table>
 
-<br>
-
-<sub><b>WEB & STYLING</b></sub>
-
-<table border="0" cellspacing="20" cellpadding="0">
-<tr>
-<td align="center"><img src="https://skillicons.dev/icons?i=html" width="42"/><br><sub>HTML</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=css" width="42"/><br><sub>CSS</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=tailwind" width="42"/><br><sub>Tailwind</sub></td>
-<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42"/><br><sub>Supabase</sub></td>
-</tr>
-</table>
 
 <br>
 
@@ -68,7 +60,25 @@ $ tech --stack
 <td align="center"><img src="https://skillicons.dev/icons?i=git" width="42"/><br><sub>Git</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=github" width="42"/><br><sub>GitHub</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=vscode" width="42"/><br><sub>VS Code</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postman" width="42"/><br><sub>Postman</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=vite" width="42"/><br><sub>Vite</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=figma" width="42"/><br><sub>Figma</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=androidstudio" width="42"/><br><sub>Android Studio</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=sublime" width="42"/><br><sub>Sublime Text</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=unity" width="42"/><br><sub>Unity</sub></td>
 </tr>
+</table>
+
+</div>
+
+<br>
+<sub><b>Database</b></sub>
+
+<table border="0" cellspacing="20" cellpadding="0">
+<tr>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42"/><br><sub>Mysql</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42"/><br><sub>Supabase</sub></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42"/><br><sub>Postgree</sub></td>
 </table>
 
 </div>
