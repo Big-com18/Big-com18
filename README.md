@@ -69,8 +69,6 @@ $ tech --stack
 </tr>
 </table>
 
-</div>
-
 <br>
 <sub><b>Database</b></sub>
 
