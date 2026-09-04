@@ -79,6 +79,7 @@ $ tech --stack
 <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="42"/><br><sub>Mysql</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=supabase" width="42"/><br><sub>Supabase</sub></td>
 <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="42"/><br><sub>Postgree</sub></td>
+</tr>
 </table>
 
 </div>
