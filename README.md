@@ -119,7 +119,7 @@ $ github --contributions-snake
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/dist/github-contribution-grid-snake.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/github-contribution-grid-snake.svg" width="100%"/>
 
 </div>
 
