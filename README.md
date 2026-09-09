@@ -114,6 +114,18 @@ $ github --trophies
 <br>
 
 ```bash
+$ github --contributions-snake
+```
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Big-com18/Big-com18/output/dist/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+<br>
+
+```bash
 $ github --contributions-3d
 ```
 
